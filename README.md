@@ -2,13 +2,13 @@
 Multimedia Programming Foundation project which uses Java and JavaFX to create an interactive shopping cart for Legos
 
 
-Member:
+Member/Contributor:
 
 Nicholas Theodore: https://github.com/ntsunib28
 
-Nicholas Abel Williem: 
+Nicholas Abel Williem: https://github.com/xcL0701
 
-William Ananda Widjaya: 
+William Ananda Widjaya: https://github.com/Nutchyk
 
 Erwin Indrawan: https://github.com/eruciel
 
