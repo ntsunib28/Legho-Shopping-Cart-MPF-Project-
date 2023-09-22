@@ -3,8 +3,11 @@ Multimedia Programming Foundation project which uses Java and JavaFX to create a
 
 Member:
 Nicholas Theodore: https://github.com/ntsunib28
+
 Nicholas Abel Williem: 
+
 William Ananda Widjaya: 
+
 Erwin Indrawan: https://github.com/eruciel
 
 You can register and login in this app and then buy items in the interface. However, if we close the app, the data inside will be reset.
